@@ -1,5 +1,5 @@
 Ce repo a pour but de montrer les compétences et certificats que j'ai pu acquérir dans le domaine du Machine Learning, Deep Learning et Data Sciences.
-[IBM AI Engineering certificate.pdf](https://github.com/jcho-colab/MachineLearning/files/7695144/IBM.AI.Engineering.certificate.pdf)
+![IBM AI Engineering certificate.pdf](https://github.com/jcho-colab/MachineLearning/files/7695144/IBM.AI.Engineering.certificate.jpg)
 
 [Coursera certificate.pdf](https://github.com/jcho-colab/MachineLearning/files/7695145/Coursera.certificate.pdf)
 

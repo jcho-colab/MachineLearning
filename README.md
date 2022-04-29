@@ -1,5 +1,7 @@
 Ce repo a pour but de montrer les compétences et certificats que j'ai pu acquérir dans le domaine du Machine Learning, Deep Learning et Data Sciences.
 
+![ms_data_scientist_associate](https://user-images.githubusercontent.com/56273505/165951793-116cd1a3-9f98-4107-868e-e44af662765f.JPG)
+
 ![ML engineering for production](https://user-images.githubusercontent.com/56273505/160967355-b8e99da5-2297-4a70-8ccf-1acf8848bc7c.JPG)
 
 ![IBM AI Engineering Professional Certificate](https://user-images.githubusercontent.com/56273505/145634307-e37c9765-98fb-43cc-9f3a-ccbeaf5d7f52.JPG)
